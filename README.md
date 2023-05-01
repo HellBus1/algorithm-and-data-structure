@@ -1,1 +1,2 @@
 # Algorithm-and-Data-Structure
+This is a collection of Python solutions for various online judges, accompanied by detailed explanations of each solution. The explanation can be viewed here https://futuristic-gateway-d0a.notion.site/0990e3d62a6c4fa9a0340294ca1bd08e?v=9b2c438160074a3dbfdcd93d95a7cc5e.
